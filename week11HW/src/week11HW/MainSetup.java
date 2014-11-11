@@ -29,3 +29,5 @@ public class MainSetup {
 		end.OutCome();
 	}
 }
+
+// Good...if you have time, please try ToSring()
